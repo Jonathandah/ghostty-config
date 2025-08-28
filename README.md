@@ -1,3 +1,3 @@
-# My Ghosty Config 👻
+# My Ghosty Configs 👻
 
-In case I lose my configs
+In case I lose my config
